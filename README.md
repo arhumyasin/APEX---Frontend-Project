@@ -13,7 +13,6 @@ A sleek and stylish car-themed website built with HTML, CSS, and JavaScript. Thi
 ## 📸 Preview
 
 ![Website Preview](![APEX](https://github.com/user-attachments/assets/cc924b15-7d1b-44fa-995f-fb41680bc6e9)
-)
 
 ## 💡 Technologies Used
 
